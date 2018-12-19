@@ -31,4 +31,4 @@ class String
   end
 end
 
-string.split(/[,.] /)
+#string.split(/[,.] /)
